@@ -3,7 +3,7 @@
 <div align="center">
   <br />
     <a href="https://github.com/AshishKFrontend/The-Architect-Cinematic-Web">
-      <img src="https://via.placeholder.com/1200x600/050505/ffffff?text=THE+ARCHITECT+-+Cinematic+Experience" alt="Project Banner">
+      <img width="1897" height="948" alt="Screenshot 2025-12-25 094940" src="https://github.com/user-attachments/assets/6726fff7-fd37-4035-bbbb-495ba03d834d" />
     </a>
   <br />
 
@@ -22,7 +22,7 @@
   </p>
 
   <h3>
-      <a href="YOUR_LIVE_DEMO_LINK_HERE">Live Demo ↗</a>
+      <a href="https://ashishkfrontend.github.io/The-Architect-Constitution/">Live Demo ↗</a>
       <span> | </span>
       <a href="https://github.com/AshishKFrontend/The-Architect-Cinematic-Web/issues">Report Bug</a>
   </h3>
